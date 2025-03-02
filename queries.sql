@@ -11,8 +11,6 @@
 10)Find the total number of patients in each state and sort them in descending order
 
 11)Find the percentage of patients at high heart attack risk in each state
-12)Identify the top 3 patients in each state with the highest blood pressure (Systolic + Diastolic BP)
-13)Find the state with the highest average emergency response time
-14)Find patients with an annual income higher than the average income of their state
-15)Classify patients into income brackets (Low, Medium, High) based on their Annual Income*/
+12)Find the state with the highest average emergency response time
+13)Classify patients into income brackets (Low, Medium, High) based on their Annual Income*/
 
